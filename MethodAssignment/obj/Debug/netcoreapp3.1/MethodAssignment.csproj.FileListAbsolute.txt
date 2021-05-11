@@ -1,0 +1,13 @@
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.exe
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.deps.json
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.json
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.runtimeconfig.dev.json
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\bin\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csprojAssemblyReference.cache
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.AssemblyInfo.cs
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.dll
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.pdb
+C:\Users\tiffa\OneDrive\Desktop\Repos\MethodAssignmentApp\MethodAssignment\obj\Debug\netcoreapp3.1\MethodAssignment.genruntimeconfig.cache
